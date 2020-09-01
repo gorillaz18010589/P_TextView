@@ -1,0 +1,3 @@
+include ':TextView'
+include ':app'
+rootProject.name = "P_TextView"
